@@ -3,5 +3,6 @@ input a
 input b
 
 and o,a,b
-or o,a
+or x,o,b
+or y,x,a
 
