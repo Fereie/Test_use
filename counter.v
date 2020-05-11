@@ -5,4 +5,5 @@ input b
 and o,a,b
 or x,o,b
 or y,x,a
+and out,y,x
 
